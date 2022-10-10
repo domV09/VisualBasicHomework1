@@ -1,0 +1,13 @@
+E:\VisualBasic\homework\homework1\HomeWork1\HomeWork1\obj\Debug\HomeWork1.vbproj.AssemblyReference.cache
+E:\VisualBasic\homework\homework1\HomeWork1\HomeWork1\obj\Debug\HomeWork1.RentalChargesForm.resources
+E:\VisualBasic\homework\homework1\HomeWork1\HomeWork1\obj\Debug\HomeWork1.Resources.resources
+E:\VisualBasic\homework\homework1\HomeWork1\HomeWork1\obj\Debug\HomeWork1.vbproj.GenerateResource.cache
+E:\VisualBasic\homework\homework1\HomeWork1\HomeWork1\obj\Debug\HomeWork1.vbproj.CoreCompileInputs.cache
+E:\VisualBasic\homework\homework1\HomeWork1\HomeWork1\bin\Debug\HomeWork1.pdb
+E:\VisualBasic\homework\homework1\HomeWork1\HomeWork1\bin\Debug\HomeWork1.xml
+E:\VisualBasic\homework\homework1\HomeWork1\HomeWork1\obj\Debug\HomeWork1.xml
+E:\VisualBasic\homework\homework1\HomeWork1\HomeWork1\obj\Debug\HomeWork1.pdb
+E:\VisualBasic\homework\homework1\HomeWork1\HomeWork1\bin\Debug\HomeWork1.exe.config
+E:\VisualBasic\homework\homework1\HomeWork1\HomeWork1\bin\Debug\HomeWork1.exe
+E:\VisualBasic\homework\homework1\HomeWork1\HomeWork1\obj\Debug\HomeWork1.vbproj.SuggestedBindingRedirects.cache
+E:\VisualBasic\homework\homework1\HomeWork1\HomeWork1\obj\Debug\HomeWork1.exe
